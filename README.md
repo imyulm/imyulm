@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=E5B4F7&height=200&section=header&text=Im%20Yurim&fontSize=90&fontColor=FFFF&fontAlign=75&fontAlignY=3%rotate=18)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E5B4F7&height=250&section=header&text=Im%20Yurim&fontSize=90&fontColor=FFFF&fontAlign=75&fontAlignY=25&rotate=16)
 ## Skills
 Backend
 <p>
